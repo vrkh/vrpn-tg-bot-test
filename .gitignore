@@ -1,0 +1,11 @@
+.venv
+.env
+env/
+venv/
+__pycache__/
+
+# config file
+config.py
+
+# Ignore the default SQLite database.
+db/*.db
